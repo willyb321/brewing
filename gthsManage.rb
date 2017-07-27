@@ -6,7 +6,7 @@ class GthsManage < Formula
   sha256 "b62636ee825f6fba3a7a920aec94bdd1895f0d003f27d9720f7e2c8845380ae9"
 
   def install
-    bin.install "gthsManage"
+    bin.install "GthsManage"
   end
 
   test do
