@@ -1,4 +1,4 @@
-class GthsManage < Formula
+class Gthsmanage < Formula
   desc ""
   homepage ""
   url "https://github.com/willyb321/gthsManage/releases/download/v1.0.0/gthsManage_1.0.0_macOS_x64.zip"
@@ -6,7 +6,7 @@ class GthsManage < Formula
   sha256 "b62636ee825f6fba3a7a920aec94bdd1895f0d003f27d9720f7e2c8845380ae9"
 
   def install
-    bin.install "GthsManage"
+    bin.install "Gthsmanage"
   end
 
   test do
