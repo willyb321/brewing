@@ -1,4 +1,4 @@
-class GthsManage < Formula
+class gthsManage < Formula
   desc ""
   homepage ""
   url "https://github.com/willyb321/gthsManage/releases/download/v1.0.0/gthsManage_1.0.0_macOS_x64.zip"
